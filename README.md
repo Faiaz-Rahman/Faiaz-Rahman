@@ -3,9 +3,9 @@
 🚀 **React Native & Next.js Developer** | Passionate about building scalable, high-performance apps.
 
 ## 🔗 Links
-- 🌐 [Portfolio Website](#)
-- 💼 [LinkedIn](#)
-- 🔵 [Facebook](#)
+- 🌐 [Portfolio Website](https://portfolio-gamma-drab-82.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-fiaz-rahman/)
+- 🔵 [Facebook](https://www.facebook.com/faiaz.nafee/)
 - 🏗️ [GitHub](https://github.com/Faiaz-Rahman)
 
 ## ⚡ Skillset
