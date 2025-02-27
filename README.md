@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Faiaz-Rahman 
-- 👀 I’m interested in programming ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... faiazrahman70@gmail.com is my mail.
+# 👋 Hi, I'm Faiaz Rahman
 
-<!---
-Faiaz-Rahman/Faiaz-Rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **React Native & Next.js Developer** | Passionate about building scalable, high-performance apps.
+
+## 🔗 Links
+- 🌐 [Portfolio Website](#)
+- 💼 [LinkedIn](#)
+- 🔵 [Facebook](#)
+- 🏗️ [GitHub](https://github.com/Faiaz-Rahman)
+
+## ⚡ Skillset
+- 🏗️ Next.js 14 (App Router, Server Actions)
+- 📱 React Native (Animations, Reanimated)
+- 🔥 Firebase (Auth, Firestore, Storage, Cloud Functions)
+- 🌊 Zustand / Redux
+- 🎨 Tailwind CSS
+- 💳 Stripe API
+- 🧠 AI (OpenAI, LangChain)
+
+## 📊 GitHub Stats
+![Faiaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faiaz-Rahman&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiaz-Rahman&layout=compact&theme=tokyonight)
